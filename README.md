@@ -8,4 +8,4 @@ and must do so in the presence of packet loss, delay, corruption, duplication, a
 
 
 # RUN: 
-python Sender.py <input file> <receiver address> <receiver port>
+python Sender.py [input file] [receiver address] [receiver port]
